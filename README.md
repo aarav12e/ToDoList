@@ -130,5 +130,6 @@ This project is open source and available under the [MIT License](LICENSE).
 Made with ❤️ by [Aarav](https://github.com/aarav12e) &nbsp;|&nbsp; Happy Coding 💻🚀
 
 ⭐ **Star this repo if you found it helpful!** ⭐
+for YouTube
 
 </div>
